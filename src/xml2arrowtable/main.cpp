@@ -1,12 +1,12 @@
-/*#include "xml_to_arrowtable.h"
+#include "xml_to_arrowtable.h"
 
 int main()
 {
 	XmlToArrowTable xta;
 	xta.execute();
 	return 0;
-}*/
-// Licensed to the Apache Software Foundation (ASF) under one
+}
+/*// Licensed to the Apache Software Foundation (ASF) under one
 // or more contributor license agreements. See the NOTICE file
 // distributed with this work for additional information
 // regarding copyright ownership. The ASF licenses this file
@@ -212,4 +212,4 @@ int main(int argc, char** argv) {
     std::cout << std::endl;
   }
   return EXIT_SUCCESS;
-}
+}*/

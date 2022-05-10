@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/xml_to_arrowtable.dir/main.cpp.o CMakeFiles/xml_to_arrowtable.dir/xml_to_arrowtable.cpp.o  -o xml_to_arrowtable /usr/lib/x86_64-linux-gnu/libarrow.so.800.0.0 -lxerces-c -ldl 

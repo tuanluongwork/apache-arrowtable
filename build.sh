@@ -1,5 +1,6 @@
 #!/bin/bash
 
+WORKSPACE=`pwd`
 BUILD_ROOT=${WORKSPACE}/build/
 ARTIFACT_ROOT=${WORKSPACE}/artifact/
 SOURCE_ROOT=${WORKSPACE}
@@ -10,5 +11,5 @@ mkdir -p ${BUILD_ROOT} ${ARTIFACT_ROOT}
 
 # Build
 cd ${BUILD_ROOT}
-cmake ${SOURCE_ROOT} -DCMAKE_BUILD_TYPE=Release ..
+cmake -DCMAKE_BUILD_TYPE=Release ${SOURCE_ROOT}
 make 

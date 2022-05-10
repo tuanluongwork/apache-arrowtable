@@ -1,0 +1,5 @@
+/root/worldquant/apache-arrowtable/build/CMakeFiles/rebuild_cache.dir
+/root/worldquant/apache-arrowtable/build/CMakeFiles/edit_cache.dir
+/root/worldquant/apache-arrowtable/build/src/xml2arrowtable/CMakeFiles/rebuild_cache.dir
+/root/worldquant/apache-arrowtable/build/src/xml2arrowtable/CMakeFiles/xml_to_arrowtable.dir
+/root/worldquant/apache-arrowtable/build/src/xml2arrowtable/CMakeFiles/edit_cache.dir
